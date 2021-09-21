@@ -1,9 +1,16 @@
+
 body {
 	font-family: 'Montserrat';
-	line-height: 1.88889;
+	font-size: 15px;
+	line-height: 20px;
 	color: #FF00FF;
-	background: #fff url(https://wallpaperaccess.com/full/1761712.jpg) no-repeat bottom right;
+	background-color: #1935bf;
+	background-image: url(https://wallpapermemory.com/uploads/180/cloud-background-full-hd-1920x1080-86133.jpg);
+	background-repeat: no-repeat;
+  background-size: cover; // 1200px;
 	margin: 0;
 	padding: 0;
+	margin-bottom: -20px;
 	}
-p {
+
+h1

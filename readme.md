@@ -53,8 +53,8 @@ Anyone who wants to use your CSS framework should only have to download the .css
 Start by styling type. Set a default font style for your framework. Follow these steps:
 
 - [x] Named your CSS framework
-- [ ] Made a Repo
-  - [ ] Copied Sample files into Repo
+- [x] Made a Repo
+  - [x] Copied Sample files into Repo
 - [ ] Choose a font
   - It's probably best to use a system font. See the notes in lesson 4.
   - The big decision here is choose between a serif or sans-serif font family.
